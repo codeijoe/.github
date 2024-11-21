@@ -34,8 +34,8 @@ If you’ve found [**Codeijoe**](https://github.com/codeijoe) because you dream 
   In case participant need to 1-on-1 help for solving some problems. Participant can ask for Private Session and then make an oppointment with Mentor.
 
 ##  📢 Here’s what’s coming next!   
-  **Github Workshop in Bahasa Indonesia**   at  Saturday, 23 November 2024, with Jitsi Meet [[2]](https://jitsi.org/jitsi-meet/) 
-  
+  **Github Workshop in Bahasa Indonesia**   at  Saturday, 30 November 2024
+
   GitHub is our engine for success, empowering software engineers to tackle a wide range of engineering tasks. Mastering it is not just important—it’s essential. Don’t miss out—join our workshop and take your GitHub skills to the next level!
 
 💡  All Mentorship participant are eligible to enter the workshop. 
